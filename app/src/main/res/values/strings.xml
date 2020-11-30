@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PeopleList</string>
+    <string name="ABCSort">ABC</string>
+    <string name="AGESort">123</string>
+    <string name="AddPerson">Add</string>
+    <string name="NameHint">Name</string>
+    <string name="AgeHint">Age</string>
+    <string name="PictureNumberHint">Picture Number</string>
+    <string name="Name">Adam</string>
+    <string name="Age">Age</string>
+    <string name="AgeValue">Age Value</string>
+    <string name="Description">Avatar</string>
+    <string name="Cancel">Cancel</string>
+    <string name="OK">OK</string>
+</resources>
